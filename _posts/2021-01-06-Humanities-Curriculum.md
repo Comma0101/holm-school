@@ -1,5 +1,5 @@
 ---
-title: Hum
+title: Humanities Curriculum
 author: Ryan Holm
 date: 2021-01-06
 category: Jekyll

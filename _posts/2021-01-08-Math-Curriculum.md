@@ -1,5 +1,5 @@
 ---
-title: Math
+title: Math Curriculum
 author: Ryan Holm
 date: 2021-01-08
 category: Jekyll

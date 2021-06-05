@@ -1,5 +1,5 @@
 ---
-title: Holm School Curriculum
+title: Computer Science Curriculum
 author: Ryan Holm
 date: 2021-01-03
 category: Jekyll

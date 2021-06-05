@@ -1,5 +1,5 @@
 ---
-title: Art
+title: Art Curriculum
 author: Ryan Holm
 date: 2021-01-07
 category: Jekyll
