@@ -15,7 +15,7 @@ layout: post
     - [Mexico City](#mexico-city)
     - [Harlem Renaissance](#harlem-renaissance)
 - [Reed College Hum210/Hum211/Hum212 Curriculum at Zero Cost](#reed-college-hum210hum211hum212-curriculum-at-zero-cost)
-  - [Hum211 -](#hum211--)
+  - [Hum211](#hum211)
   - [Hum212](#hum212)
 - [Reed College Hum220 Curriculum at Zero Cost](#reed-college-hum220-curriculum-at-zero-cost)
   - [Hum220](#hum220)
@@ -224,7 +224,7 @@ W. E. B. Du Bois | “The Negro and the Warsaw Ghetto” (1952), in The Oxford W
 # Reed College Hum210/Hum211/Hum212 Curriculum at Zero Cost
 Free version of Reed College's Hum210 ("Hum211"/"Hum212") course syllabus.
 
-## Hum211 - 
+## Hum211
 Author | Book | Archive Links
 ------|--------|------
 Ibn Tufayl | Hayy Ibn Yaqzan: A Philosophical Tale | [v1](https://archive.org/details/HayyIbnYaqzan)
