@@ -1,6 +1,9 @@
 ---
-chapter: 4
-title: "Free Index Funds Books"
+title: Free Index Funds Books
+author: Ryan Holm
+date: 2021-01-04
+category: Jekyll
+layout: post
 ---
 
 - [Free Index Funds Books](#free-index-funds-books)

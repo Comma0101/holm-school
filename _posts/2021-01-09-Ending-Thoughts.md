@@ -1,7 +1,11 @@
 ---
-chapter: 9
-title: "Misc"
+title: Ending Thoughts
+author: Ryan Holm
+date: 2021-01-09
+category: Jekyll
+layout: post
 ---
+
 
 - [The Teenage Liberation Handbook](#the-teenage-liberation-handbook)
 - [Tips for Personal Finance](#tips-for-personal-finance)

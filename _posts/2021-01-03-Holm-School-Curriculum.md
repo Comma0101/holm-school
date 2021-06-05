@@ -1,6 +1,9 @@
 ---
-chapter: 3
-title: "Holm School Curriculum"
+title: Holm School Curriculum
+author: Ryan Holm
+date: 2021-01-03
+category: Jekyll
+layout: post
 ---
 
 - [Why You Shouldn't Spend a Cent on Learning How to Program](#why-you-shouldnt-spend-a-cent-on-learning-how-to-program)
@@ -1311,4 +1314,5 @@ Get a junior dev job (without a degree) as quickly as possible by holmschooling 
 
 * [University of the People - Computer Science Bachelors of Science](https://uopeople.edu) - $4000 total ([mix this with four years of Treehouse and Perlego for a F-You Degree](https://holm.school/the-f-you-degree))
 * [Georgia Tech - OMSCS Online Masters in Computer Science](http://www.omscs.gatech.edu/) - $7000 total
+
 

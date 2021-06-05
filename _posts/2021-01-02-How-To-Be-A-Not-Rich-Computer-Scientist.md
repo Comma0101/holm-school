@@ -1,6 +1,9 @@
 ---
-chapter: 2
-title: "How to Be a Not Rich Computer Scientist"
+title: How to Be a Not Rich Computer Scientist
+author: Ryan Holm
+date: 2021-01-02
+category: Jekyll
+layout: post
 ---
 
 - [Guide to Being a Not-Rich Computer Scientist](#guide-to-being-a-not-rich-computer-scientist)

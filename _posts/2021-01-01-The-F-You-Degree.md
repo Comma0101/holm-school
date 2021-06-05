@@ -1,6 +1,9 @@
 ---
-chapter: 1
-title: "The F-You Degree"
+title: The F-You Degree
+author: Ryan Holm
+date: 2021-01-01
+category: Jekyll
+layout: post
 ---
 
 # The F-You Degree
