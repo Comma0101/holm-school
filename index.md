@@ -13,3 +13,4 @@ A Free Public Domain EBook About How to Teach Yourself To Be A Computer Scientis
 For .epub:
 [Holm-School-You-Might-Learn-Something.epub]([./](https://raw.githubusercontent.com/ryheimat/holm-school/master/Holm-School-You-Might-Learn-Something.epub))
 
+Ryan Holm, Public Domain 2018-2021
