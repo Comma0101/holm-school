@@ -6,6 +6,8 @@ category: Jekyll
 layout: post
 ---
 
+### Index
+
 - [44 Reasons Not To Go To College To Study Computer Science](#44-reasons-not-to-go-to-college-to-study-computer-science)
   - [#44 - Bootstrap Your Computer Science Career](#44---bootstrap-your-computer-science-career)
   - [#43 - You Don't Need to Spend a Cent to Learn Computer Science](#43---you-dont-need-to-spend-a-cent-to-learn-computer-science)

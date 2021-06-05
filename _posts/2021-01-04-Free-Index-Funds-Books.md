@@ -6,6 +6,8 @@ category: Jekyll
 layout: post
 ---
 
+### Index
+
 - [Free Index Funds Books](#free-index-funds-books)
   - [Recommended](#recommended)
     - [Index Funds](#index-funds)

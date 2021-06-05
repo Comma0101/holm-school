@@ -6,6 +6,8 @@ category: Jekyll
 layout: post
 ---
 
+### Index 
+- [Index](#index)
 - [Why You Shouldn't Spend a Cent on Learning How to Program](#why-you-shouldnt-spend-a-cent-on-learning-how-to-program)
   - [Why is technology on Moore's Law but the cost of college rises many times faster than inflation? Because private university is a scam.](#why-is-technology-on-moores-law-but-the-cost-of-college-rises-many-times-faster-than-inflation-because-private-university-is-a-scam)
 - [Holmschooling](#holmschooling)

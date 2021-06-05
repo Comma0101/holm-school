@@ -6,6 +6,7 @@ category: Jekyll
 layout: post
 ---
 
+### Index
 
 - [The Teenage Liberation Handbook](#the-teenage-liberation-handbook)
 - [Tips for Personal Finance](#tips-for-personal-finance)

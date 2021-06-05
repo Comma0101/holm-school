@@ -6,6 +6,8 @@ category: Jekyll
 layout: post
 ---
 
+### Index
+
 - [Guide to Being a Not-Rich Computer Scientist](#guide-to-being-a-not-rich-computer-scientist)
   - [I. Introduction](#i-introduction)
   - [II. Books](#ii-books)
