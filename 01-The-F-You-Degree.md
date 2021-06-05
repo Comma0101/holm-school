@@ -13,7 +13,7 @@ title: "The F-You Degree"
 
 - [JL Collins, "Debt: The Unacceptable Burden"](https://jlcollinsnh.com/2015/03/26/stocks-part-xxviii-debt-the-unacceptable-burden/)
 
-Blogger JL Collins, who wrote the seminal ["Stock Series"](https://jlcollinsnh.com/stock-series/) - a free blog-based web book that is now the defining opus of the financial independence, retire early movement (please read it before continuing on with this chapter - six hour read) - has a concept in it called [F-You Money](https://jlcollinsnh.com/manifesto/). It's the inevitable result of having a large nest egg of index funds from years of having a high savings percentage (50-80%) and being frugal while young, mixed with a well paying job. The "F-You" aspect is the sense of independence from being more financially secure than most people, who work just to buy shit and never have a nest egg.
+Blogger JL Collins, who wrote the seminal ["Stock Series"](https://jlcollinsnh.com/stock-series/) - a free blog-based web book that is now the defining opus of the financial independence, retire early movement (please read it before continuing on with this chapter - six hour read) - has a concept in it called [F-You Money](https://jlcollinsnh.com/manifesto/). It's the inevitable result of having a large nest egg of index funds from years of having a high savings percentage (50-80%) and being frugal while young, mixed with a well paying job. The "F-You" aspect is the sense of independence from being more financially secure than most people, who work just to buy things and never have a nest egg.
 
 My corollary is the $6600 F-You Degree in Computer Science.
 
@@ -74,6 +74,7 @@ How will you behave once you know how to raise two to any power just by adding s
 
 Note: The idea (and underlying components) behind an F-You Degree is completely public domain. Feel free to reuse, rework, and remix. It is an Open Educational Resource (that uses Open Educational Resources)! Tell me what version of the F-You Degree worked for you in your circumstances! Again, thanks to JL Collins for his [Stock Series](https://jlcollinsnh.com/stock-series/) and his concept of "F-You Money". I don't mean to step on his toes with my appropriation, but rather raise his pedestal. His Stock Series is essential reading, computer scientist or not. It, along with Treehouse and Mr. Money Mustache, changed my life.
 
+It is also worth noting now that I deviate from a 100% Total Stock Market Portfolio, I am now 50% Small Cap Value through AVUV ETF and 50% Total Stock Market Index.
 
 # Individual Breakdown of a Four-Year F-You Degree
 

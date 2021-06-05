@@ -3,9 +3,80 @@ chapter: 2
 title: "How to Be a Not Rich Computer Scientist"
 ---
 
+- [Guide to Being a Not-Rich Computer Scientist](#guide-to-being-a-not-rich-computer-scientist)
+  - [I. Introduction](#i-introduction)
+  - [II. Books](#ii-books)
+    - [OER](#oer)
+    - [Public Library](#public-library)
+    - [Local College Library](#local-college-library)
+    - [Perlego](#perlego)
+    - [Archive.org](#archiveorg)
+    - [Amazon](#amazon)
+  - [III. Computers](#iii-computers)
+    - [Tablet](#tablet)
+    - [Dual Monitors](#dual-monitors)
+    - [Raspberry Pi/old desktop](#raspberry-piold-desktop)
+    - [Laptop](#laptop)
+    - [No Personal Computer](#no-personal-computer)
+    - [Cellphone](#cellphone)
+  - [IV. Education](#iv-education)
+    - [High School - National Merit Scholarship](#high-school---national-merit-scholarship)
+    - [Tuition Reimbursement from Employment](#tuition-reimbursement-from-employment)
+    - [College](#college)
+    - [Community College](#community-college)
+    - [University of the People](#university-of-the-people)
+    - [Georgia Tech Online Masters of Science in Computer Science http://www.omscs.gatech.edu/](#georgia-tech-online-masters-of-science-in-computer-science-httpwwwomscsgatechedu)
+    - [Makerspaces](#makerspaces)
+    - [Tips for Being a Student](#tips-for-being-a-student)
+  - [IV. The Public Library](#iv-the-public-library)
+    - [Introduction](#introduction)
+    - [Treehouse http://teamtreehouse.com](#treehouse-httpteamtreehousecom)
+    - [Lynda https://lynda.com](#lynda-httpslyndacom)
+    - [Safari Books Online](#safari-books-online)
+  - [V. Free Online Services](#v-free-online-services)
+    - [Introduction](#introduction-1)
+    - [Khan Academy http://khanacademy.org](#khan-academy-httpkhanacademyorg)
+    - [PluralSight http://pluralsight.com](#pluralsight-httppluralsightcom)
+    - [FreeCodeCamp http://freecodecamp.org](#freecodecamp-httpfreecodecamporg)
+  - [VI. OpenCourseWare](#vi-opencourseware)
+    - [Introduction](#introduction-2)
+    - [MIT OpenCourseWare http://ocw.mit.edu](#mit-opencourseware-httpocwmitedu)
+    - [aGupieWare OCW Roundup Blog Post http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html](#agupieware-ocw-roundup-blog-post-httpblogagupiewarecom201406online-learning-intensive-bachelorshtml)
+  - [VII. MOOCs](#vii-moocs)
+    - [Introduction](#introduction-3)
+    - [Class Central MOOC Search Engine http://class-central.com](#class-central-mooc-search-engine-httpclass-centralcom)
+    - [Open Source Society University https://github.com/ossu/computer-science](#open-source-society-university-httpsgithubcomossucomputer-science)
+    - [Coursera http://coursera.org](#coursera-httpcourseraorg)
+    - [edX http://edx.org](#edx-httpedxorg)
+    - [Udacity http://udacity.com](#udacity-httpudacitycom)
+    - [Stanford Lagunita https://lagunita.stanford.edu/courses](#stanford-lagunita-httpslagunitastanfordeducourses)
+    - [Other Notable Platforms](#other-notable-platforms)
+  - [VIII. Sample Curriculum](#viii-sample-curriculum)
+    - [Introduction](#introduction-4)
+    - [Getting Started: Classes for Kids (and total newbies like you)](#getting-started-classes-for-kids-and-total-newbies-like-you)
+    - [Learn the Basics of your Raspberry Pi:](#learn-the-basics-of-your-raspberry-pi)
+    - [Learn the Basics of Programming:](#learn-the-basics-of-programming)
+  - [IX. Internships](#ix-internships)
+    - [Unpaid Internship](#unpaid-internship)
+    - [Paid Internship](#paid-internship)
+  - [X. The humanities and other STEM classes](#x-the-humanities-and-other-stem-classes)
+  - [XI. Living Cheap](#xi-living-cheap)
+    - [Veganism](#veganism)
+    - [Cars and Biking](#cars-and-biking)
+    - [Thrift Stores for clothes](#thrift-stores-for-clothes)
+    - [Live at Home](#live-at-home)
+    - [Drop alcohol and coffee and pot and diet soda](#drop-alcohol-and-coffee-and-pot-and-diet-soda)
+    - [Exercise](#exercise)
+  - [XII. Relevant Links](#xii-relevant-links)
+    - [CS](#cs)
+    - [Frugality](#frugality)
+    - [Not-Rich Guides](#not-rich-guides)
+
 # Guide to Being a Not-Rich Computer Scientist
 
 For more information regarding Open Educational Resources and what they are, please read the [wikipedia page](https://en.wikipedia.org/wiki/Open_educational_resources) or read the free epub ["Open: The Philosophy and Practices that are Revolutionizing Education and Science"](https://unglue.it/work/208269/)
+
+
 
 ## I. Introduction
 
@@ -50,7 +121,7 @@ The local college in my hometown offers a borrower's card for anyone living in t
 
 Textbooks, and by fiat university libraries, WILL go completely digital in time (surprisingly faster than you might expect). A paperless library, both university and public, is inevitable. While universities are encumbered by publisher contracts and journal subscriptions, Perlego cuts that fat and offers affordable digital textbooks in such a range of subjects as to mimic a university library. For the online learner, it is a boon to your bottomline. OER is expansive enough to cover a complete CS curriculum, but it is limited to the CS curriculum. Perlego fills in the gaps to offer a university curriculum/library stack in nearly EVERY university subject. This is very rewarding and affordable EdTech, I would actually prioritize this service before any other subscription-based educational service listed.
 
-For example, you can read [Liang's Java Programming textbook](https://www.perlego.com/book/811725/introduction-to-java-programming-and-data-structures-comprehensive-version-global-edition-pdf) in certain regions. This is the textbook that my school was attempting to get me to pay $150 for (I bought the previous edition for $15 used on Amazon). This demonstrates how important Perlego will be to self-educators in the future. $12 a month is chump change, anyone can work 2 hours at minimum wage per month to pay for thousands of computer science textbooks. While Holm School documents many free OER textbooks, you shouldn't completely write off paying $12 a month for Perlego just because it costs some money. Find a means of earning the money if you can. If you can pay, you'll find yourself with years of learning material to fuel a DIY computer science education. Considering how valuable books like Liang's Java Programming textbook are, and they are available on Perlego, I think it is important to subscribe to Perlego if you don't have access to a university library. It is inevitable that university libraries get digitized into an affordable subscription model that can be subscribed to by universities and independent learners alike. I am pleased to say it appears that time is finally here in the United States.</p>
+For example, you can read [Liang's Java Programming textbook](https://www.perlego.com/book/811725/introduction-to-java-programming-and-data-structures-comprehensive-version-global-edition-pdf) in certain regions. This is the textbook that my school was attempting to get me to pay $150 for (I bought the previous edition for $15 used on Amazon). This demonstrates how important Perlego will be to self-educators in the future. $12 a month is chump change, anyone can work 2 hours at minimum wage per month to pay for thousands of computer science textbooks. While Holm School documents many free OER textbooks, you shouldn't completely write off paying $12 a month for Perlego just because it costs some money. Find a means of earning the money if you can. If you can pay, you'll find yourself with years of learning material to fuel a DIY computer science education. Considering how valuable books like Liang's Java Programming textbook are, and they are available on Perlego, I think it is important to subscribe to Perlego if you don't have access to a university library. It is inevitable that university libraries get digitized into an affordable subscription model that can be subscribed to by universities and independent learners alike. I am pleased to say it appears that time is finally here in the United States.
 
 
 ### Archive.org
@@ -76,7 +147,7 @@ The second benefit of having a tablet is that it serves as a second monitor for 
 
 ### Dual Monitors
 
-Dual monitors are extremely important if you are using online education for a computer science education because it is near impossible to alt+tab back and forth between your tutorial video's code and your IDE on a single screen. You will need to have your tutorial code on the left with your IDE on the right. The Raspberry Pi finally got a second monitor jack too in 2019! With a cheap tablet, you could essentially have three monitors for your Raspberry Pi (though not needed at all, two is enough).</p>
+Dual monitors are extremely important if you are using online education for a computer science education because it is near impossible to alt+tab back and forth between your tutorial video's code and your IDE on a single screen. You will need to have your tutorial code on the left with your IDE on the right. The Raspberry Pi finally got a second monitor jack too in 2019! With a cheap tablet, you could essentially have three monitors for your Raspberry Pi (though not needed at all, two is enough).
 
 ### Raspberry Pi/old desktop
 
@@ -148,7 +219,7 @@ One more thought. Part of what makes college interesting as an activity is its r
 
 I think the day and age of the student loan has passed. Student loans becoming a tradeable commodity on wall street was just one of the reasons for the crash in 2008. I think the wise decision going forth is always pay in cash your tuition and never take out a student loan. That might seem silly, but I think that's the reason UoPeople is so amazing. To fund UoPeople and four years of internet ($2000) would require 800 hours of labor at minimum wage. That means, following high school, you could work for 20 weeks (5 months) to pay for your bachelor's degree tuition and hardware expenses. This is just two more months than a summer job. I very much like this idea of paying for your tuition in cash and never taking out a (non-forgiveable) student loan. This is possible through UoPeople.
       
-### Georgia Tech Online Masters of Science in Computer Science</strong> (http://www.omscs.gatech.edu/)<strong>http://www.omscs.gatech.edu/</strong></a></p>
+### Georgia Tech Online Masters of Science in Computer Science [http://www.omscs.gatech.edu/](http://www.omscs.gatech.edu/)
 
 A $7k online master's degree in Computer Science. The core specializations are Computing Systems, Machine Learning, AI, or Computational Perception/Robotics. If those aren't your areas of research interest, you might have to make some sacrifices. Computing systems is the most generic, allowing something more like a software engineering trajectory rather than operating systems or such. This is a legit program, no complaints, so work hard on acquiring the cheapest B.A. in computer science you can and then put up two years to get this master's degree for only $7k. This program is designed for working students, so your best angle of attack might be to get your B.A. in computer science through local colleges or UoPeople, then find employment, then using tuition reimbursement from your job to pay for an OMSCS degree. If I were to do that at my current job, for example, an OMSCS degree would cost $1.8k total for me. That's practically free, and honestly I'm a fool for not taking it up as soon as I got this job and wasting two years choosing to study Treehouse and Lynda instead in my spare time. Such is the life of a full stack developer! Don't make the same mistake I did, and as soon as you get a job with tuition reimbursement apply to OMSCS. Have this be a life goal.
      
@@ -166,7 +237,7 @@ Search for "study skills" in YouTube and spend as long as necessary learning how
 
 ### Introduction
 
-Public libraries are increasingly becoming providers of online education in computer science, such as providing free access to Lynda.com and teamtreehouse.com. In my opinion, in the future you will receive a bachelor's degree for free through services provided by the public library. It is almost inevitable, mark my words. That's why I argue against spending a lot of money on a bachelor's degree because it won't be too long in the future that you will be able to receive an equivalent education for free through your public library. I can see schools like the University of the People or equivalent offering public library unlimited subscriptions for cardholders in return for a yearly sum, offering free bachelor's degrees in computer science for all library patrons. Given that  teamtreehouse.com is nearly equivalent to a computer science degree in scope (with the library offering a nonaccredited service that costs $300 a year versus UoPeople's accredited cost of $1000 a year), you could even say it is already happening, but without accreditation. Many public libraries offer cards for anyone living in the same state. For example, I can access NYPL's Lynda.com subscription even though I live in Troy, NY and will never visit the NYPL in person. If your public library doesn't offer an online service that you think it should, you can email them and request that they subscribe. Regularly check in on your library's digital resources page and take advantage of all the free services they offer. I read the New Yorker and Architectural Digest for free thanks to my public library's subscription to Flipster! That saves me like $50 a year. I can watch all the Criterion Collection movies and Teaching Company lectures thanks to the NYPL's Kanopy subscription. It's a great time to be a library patron! Public Libraries are your greatest ally as a computer science student.</p>
+Public libraries are increasingly becoming providers of online education in computer science, such as providing free access to Lynda.com and teamtreehouse.com. In my opinion, in the future you will receive a bachelor's degree for free through services provided by the public library. It is almost inevitable, mark my words. That's why I argue against spending a lot of money on a bachelor's degree because it won't be too long in the future that you will be able to receive an equivalent education for free through your public library. I can see schools like the University of the People or equivalent offering public library unlimited subscriptions for cardholders in return for a yearly sum, offering free bachelor's degrees in computer science for all library patrons. Given that  teamtreehouse.com is nearly equivalent to a computer science degree in scope (with the library offering a nonaccredited service that costs $300 a year versus UoPeople's accredited cost of $1000 a year), you could even say it is already happening, but without accreditation. Many public libraries offer cards for anyone living in the same state. For example, I can access NYPL's Lynda.com subscription even though I live in Troy, NY and will never visit the NYPL in person. If your public library doesn't offer an online service that you think it should, you can email them and request that they subscribe. Regularly check in on your library's digital resources page and take advantage of all the free services they offer. I read the New Yorker and Architectural Digest for free thanks to my public library's subscription to Flipster! That saves me like $50 a year. I can watch all the Criterion Collection movies and Teaching Company lectures thanks to the NYPL's Kanopy subscription. It's a great time to be a library patron! Public Libraries are your greatest ally as a computer science student.
 
 ### Treehouse [http://teamtreehouse.com](http://teamtreehouse.com)
 
@@ -237,7 +308,7 @@ This is a solid compendium of MOOC classes that fulfill some semblance of a comp
 
 ### Coursera [http://coursera.org](http://coursera.org)
 
-For-profit MOOC platform. They have a good grasp on what's possible through a MOOC and don't usually make overly grand promises on the potential of their classes in getting you a job. They're also classy enough to offer their certification courses for free to audit and not hiding them behind a paywall.</p>
+For-profit MOOC platform. They have a good grasp on what's possible through a MOOC and don't usually make overly grand promises on the potential of their classes in getting you a job. They're also classy enough to offer their certification courses for free to audit and not hiding them behind a paywall.
 
 ### edX [http://edx.org](http://edx.org)
 
@@ -335,7 +406,7 @@ It is a sensible thing to buy your clothes used from Goodwill or Salvation Army 
 
 ### Live at Home
 
-If you're just studying computer science until you get a job, you will find you have more time to study when you don't have to have a job to pay rent for a studio apartment (which you have to pay cable internet costs for, utilities, etc.). Though living at home while you're 18-22 is no treat, the money saved is worth it especially when studying computer science offers so many opportunities to land a great job and move on to the next chapter of your life. I recommend going to a college that's in your home town just so you don't have to pay for rent. If you get away from home by going to the public library or a makerspace to study each day, carrying your lunch and dinner with you, you can get away with just being at home to sleep. If you work on your lifestyle so that you're no longer drinking, there's no reason why not to live at home and save hundreds of dollars a month. Your main focus is on studying computer science.</p>
+If you're just studying computer science until you get a job, you will find you have more time to study when you don't have to have a job to pay rent for a studio apartment (which you have to pay cable internet costs for, utilities, etc.). Though living at home while you're 18-22 is no treat, the money saved is worth it especially when studying computer science offers so many opportunities to land a great job and move on to the next chapter of your life. I recommend going to a college that's in your home town just so you don't have to pay for rent. If you get away from home by going to the public library or a makerspace to study each day, carrying your lunch and dinner with you, you can get away with just being at home to sleep. If you work on your lifestyle so that you're no longer drinking, there's no reason why not to live at home and save hundreds of dollars a month. Your main focus is on studying computer science.
 
 
 ### Drop alcohol and coffee and pot and diet soda
