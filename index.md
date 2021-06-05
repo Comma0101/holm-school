@@ -4,7 +4,7 @@ layout: home
 
 ![Holm School](https://raw.githubusercontent.com/ryheimat/holm-school/master/small_banner.png)
 
-Holm School (You Might Learn Something) - Ryan Holm
+Holm School (You Might Learn Something)
 
 A Free Public Domain EBook About How to Teach Yourself To Be A Computer Scientist For Hamiltons a Month
 
