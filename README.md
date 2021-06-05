@@ -1,6 +1,6 @@
 # Holm School - Ryan Holm
 
-Free book readable at: https://ryheimat.github.io/holm-school
+Full Free book readable at: https://ryheimat.github.io/holm-school
 
 ![Holm School](https://raw.githubusercontent.com/ryheimat/holm-school/master/small_banner.png)
 
