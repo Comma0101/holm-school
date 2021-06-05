@@ -130,7 +130,6 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 ### Economics
 * [Häring, Norbert - Economics 2.0 : what the best minds in economics can teach you about business and life](https://archive.org/details/economics20whatb0000hari)
 * [Hazlitt, Henry - Economics in One Lesson](https://archive.org/details/HenryHazlittEconomicsInOneLesson)
-* [Holm School - Economics Z-Degree](https://holm.school/economics)
 * [NPR Planet Money (and The Indicator) (Podcast)](https://npr.org/planetmoney)
 * [OpenStax - Principles of Economics 2e](https://openstax.org/details/books/principles-economics-2e)
 * [OpenStax - Principles of Macroeconomics 2e](https://openstax.org/details/books/principles-macroeconomics-2e)
@@ -154,7 +153,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [OpenStax - Entrepreneurship](https://openstax.org/details/books/entrepreneurship)
 
 
-### [Perlego](https://holm.school/perlego-available/)
+### Perlego
 * [Perlego - Index Funds](https://www.perlego.com/search?query=index%20funds&tab=book&filter=English&page=1)
 * [Perlego - Frugal](https://www.perlego.com/search?query=frugal&tab=topResult&filter=English&page=1)
 * [Perlego - Getting out of debt](https://www.perlego.com/search?query=getting%20out%20of%20debt&tab=book&filter=English&page=1)

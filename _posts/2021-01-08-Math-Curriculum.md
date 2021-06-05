@@ -118,7 +118,7 @@ Free mathematics curriculum aiming to replicate an undergraduate degree in math 
 * [MIT OCW - Mathematics for Computer Science (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015)]
 * [ADU - Discrete Mathematics](http://www.aduni.org/courses/discrete/)
 * [Knuth, Donald - Concrete Mathematics](https://archive.org/details/B-001-002-135)
-* [holm school/#Discrete-Mathematics](https://holm.school/#Discrete-Mathematics)
+* [holm school/#Discrete-Mathematics](https://ryheimat.github.io/holm-school/jekyll/2021-01-03-Computer-Science-Curriculum.html#discrete-mathematics)
 
 
 ## Algorithms
@@ -167,7 +167,7 @@ Free mathematics curriculum aiming to replicate an undergraduate degree in math 
 * [ADU - Applied Probability](http://www.aduni.org/courses/probability/)
 * [Saylor.org - MA252: Introduction to Probability Theory](https://legacy.saylor.org/ma252/Intro/)
 * [Grinstead, Charles and Snell, J. Laurie - Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf)
-* [holm school/#Statistics](https://holm.school/#Statistics)
+* [holm school/#Statistics](https://ryheimat.github.io/holm-school/jekyll/2021-01-03-Computer-Science-Curriculum.html#statistics)
 
 
 

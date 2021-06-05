@@ -165,7 +165,7 @@ Yale | [Let This Be a Lesson: Heroes, Heroines, and Narrative in Paintings at Ya
 * [Google - Arts and Culture](https://artsandculture.google.com/partner?hl=en&tab=map)
 * [PBS - Art21 - All Seasons](https://art21.org/watch/)
 
-### [Perlego](https://holm.school/perlego-available/)
+### Perlego
 * [Perlego - Art History](https://www.perlego.com/browse/the-arts/art-history)
 * [Perlego - The Arts](https://www.perlego.com/browse/the-arts)
 
@@ -181,7 +181,6 @@ free and open source OER-based bfa degree curriculum focusing on computer art/pr
 ## Art History
 Author | Book
 -------|-------
-Holm School | [Art History Z-Degree](https://holm.school/art-history)
 White | Prehistoric Art: The Symbolic Journey of Humankind [v1](https://archive.org/details/prehistoricartsy0000whit)
 Lenny Lipton | [Independent filmmaking](https://archive.org/details/independentfilmm00lipt)
 E.H. Gombrich | The Story of Art [v1](https://archive.org/details/in.ernet.dli.2015.234516) [v2](https://archive.org/details/in.ernet.dli.2015.29158) [v3](https://archive.org/details/storyofart00gombrich) [v4](https://archive.org/details/storyofartstor00gomb) [v5](https://archive.org/details/storyofargomt00gomb) [v6](https://archive.org/details/storyofartgom00gomb) [v7](https://archive.org/details/storyofart00gomb) [v8](https://archive.org/details/storyofart00gomb_0)
