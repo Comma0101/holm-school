@@ -6,7 +6,7 @@ layout: home
 
 Holm School (You Might Learn Something)
 
-A Free Public Domain EBook About How to Teach Yourself To Be A Computer Scientist For Hamiltons a Month
+How to Teach Yourself To Be A Computer Scientist For Hamiltons a Month
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
