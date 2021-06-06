@@ -4,7 +4,7 @@
 
 [.epub available too](https://raw.githubusercontent.com/ryheimat/holm-school/master/Holm-School-You-Might-Learn-Something.epub).
 
-[Read on Archive.org](https://archive.org/details/lepvcxvx-holm_school-public_domain_ebook).
+[Read on Archive.org](https://archive.org/details/lepvcxvx-holm_school-public_domain_ebook). (May be out of date)
 
 ![Holm School](https://raw.githubusercontent.com/ryheimat/holm-school/master/small_banner.png)
 
