@@ -1,8 +1,10 @@
-### Holm School (You Might Learn Something) - Ryan Holm - Learn How to Be a Computer Scientist for Hamiltons a Month
+### Holm School (You Might Learn Something) - Ryhen Holm - Learn How to Be a Computer Scientist for Hamiltons a Month
 
 Full Free book readable at: https://ryheimat.github.io/holm-school
 
 [.epub available too](https://raw.githubusercontent.com/ryheimat/holm-school/master/Holm-School-You-Might-Learn-Something.epub)
+
+[Read on Archive.org](https://archive.org/details/lepvcxvx-holm_school-public_domain_ebook)
 
 ![Holm School](https://raw.githubusercontent.com/ryheimat/holm-school/master/small_banner.png)
 
