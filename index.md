@@ -15,6 +15,6 @@ For .epub:
 
 This is basically a zine, only hosted on github.
 
-Ryan Holm, Public Domain 2018-2021
+Ryhen Holm, Public Domain 2018-2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AUW4vUVc878" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
