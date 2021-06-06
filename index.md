@@ -11,7 +11,7 @@ A Free Public Domain EBook About How to Teach Yourself To Be A Computer Scientis
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 For .epub:
-[Holm-School-You-Might-Learn-Something.epub]([./](https://raw.githubusercontent.com/ryheimat/holm-school/master/Holm-School-You-Might-Learn-Something.epub))
+[Holm-School-You-Might-Learn-Something.epub](https://raw.githubusercontent.com/ryheimat/holm-school/master/Holm-School-You-Might-Learn-Something.epub)
 
 This is basically a zine, only hosted on github.
 
